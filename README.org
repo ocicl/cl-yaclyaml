@@ -1,0 +1,10 @@
+* cl-yaclyaml
+
+Yet Another Common Lisp YaML processor
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mabragor/cl-yaclyaml.git   |
+| commit  | 56b02e3  |
+| systems | cl-yaclyaml |
+|---------+-------------------------------------------|
+
